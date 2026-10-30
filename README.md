@@ -81,5 +81,4 @@ Backtesting shows **4.6% to 12.0%** outperformance by the LSTM model. However, i
 This project was completed as a formal requirement for the International Baccalaureate Diploma Programme May 2024 session. This work resulted in an 'A' grade for the component.
 
 ## Acknowledgement
-Thank you to Mr Tajvir Singh--then International Baccalaureate Computer Science teacher at NLCS Jeju--for supervising this project.# KOSPI-daily-direction-prediction
-# KOSPI-daily-direction-prediction
+Thank you to Mr Tajvir Singh--then International Baccalaureate Computer Science teacher at NLCS Jeju--for supervising this project.
