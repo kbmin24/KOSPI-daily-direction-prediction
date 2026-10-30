@@ -50,9 +50,14 @@ I then built a model with an LSTM layer, as well as a dropout and two convention
 ## Results
 Evaluating the model against the test dataset demonstrate that the model was able to predict the next-day movement of the index by **62.0%** accuracy.
 
-This accuracy outperforms any of the naive methods: random walk, always predicting bear and always predicting bull, as shown in the following figure.
+This accuracy outperforms any of the naive methods: random walk, always predicting bear and always predicting bull, as shown in the following table.
 
-![](img/fig14.png)
+| Strategy | Prediction Accuracy |
+| --- | ---
+| Always predict bear | 46.8% |
+| Random walk | 50.0% |
+| Always predict bull | 53.5% |
+| Model | 62.0% |
 
 ### Backtesting
 To determine the usefulness of this model, I performed a backtest on the test data, with the following strategy:
