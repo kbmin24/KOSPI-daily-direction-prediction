@@ -76,9 +76,8 @@ The results are as follows.
 
 Backtesting shows **4.6% to 12.0%** outperformance by the LSTM model. However, it must be noted that this backtesting did not account slippage or transcation costs.
 
-
 ## Recognition
-This project was completed as a formal requirement for the International Baccalaureate Diploma Programme May 2024 session. This work resulted in an 'A' grade for the component.
+This project was completed as a formal requirement for the International Baccalaureate Diploma Programme May 2024 session, with some modification. This work resulted in an 'A' grade for the component.
 
 ## Acknowledgement
 Thank you to Mr Tajvir Singh--then International Baccalaureate Computer Science teacher at NLCS Jeju--for supervising this project.
