@@ -36,7 +36,7 @@ In developing ML model for this project, it is important to recognize the time d
 
 *image excerpt from original EE*
 
-Therefore, I lagged all US-based economic indicators by 1 day when preparing the features for the model.
+Therefore, I lagged all US-based economic indicators by 1 day when preparing the features for the model. That is, when predicting KOSPI index for day `T`, we used Korean data from day `T-1` and US data from day `T-2`.
 
 ### Training the model
 *Code for these steps is shown in `KOSPI_LSTM.ipynb`.*
