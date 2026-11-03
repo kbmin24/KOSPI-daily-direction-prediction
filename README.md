@@ -15,7 +15,7 @@ In this project, I used not only the KOSPI index but also various macroeconomic/
 ├── Abstract.pdf            # Abstract for this project
 ```
 
-## Methodology
+## Method
 This investigation is broadly split into two parts: selecting relavent economic indicators and building the ML model.
 
 ### Selecting Economic Indicators
