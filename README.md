@@ -68,7 +68,8 @@ To determine the usefulness of this model, I performed a backtest on the test da
 * If the model predicts bear:
   * If we currently have cash, keep it.
   * If we currently have stock, sell it.
- Results show that we can gain 4%p-12%p alpha using the strategy over the five different 8-month testing periods.
+
+Results show that we can gain 4%p-12%p alpha using the strategy over the five different 8-month testing periods.
 
 The results are as follows.
 
